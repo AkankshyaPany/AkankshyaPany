@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AKANKSHYA PANY</h1>
 <h3 align="center">A Person whom computers fascinate more than humans.</h3>
 
-- 🌱 I’m currently learning **deep Learning, GANS**
+- 🌱 I’m currently learning **Deep Learning, GANS**
 
 - 📫 How to reach me **panysayeni@gmail.com**
 
