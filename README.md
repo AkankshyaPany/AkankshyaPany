@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akankshya Pany</h1>
 <h3 align="center">A Person whom computers fascinate more than humans.</h3>
 
-- 🌱 I’m currently learning ** java , spring **
+- 🌱 I’m currently learning **java,spring**
 
 - 📫 How to reach me **panysayeni@gmail.com**
 
