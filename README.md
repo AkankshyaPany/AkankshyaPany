@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akankshya Pany</h1>
 <h3 align="center">A Person whom computers fascinate more than humans.</h3>
 
-- 🌱 I’m currently learning fasinating framework and module : **jspring,springboot**
+- 🌱 I’m currently learning fasinating framework and module : **Spring,SpringBoot**
 
 - 📫 How to reach me **panysayeni@gmail.com**
 
